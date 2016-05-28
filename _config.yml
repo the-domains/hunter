@@ -1,0 +1,28 @@
+name: Hunter
+favicon: null
+layout_spectrum: 0.34276035614311695
+typography_spectrum: 0.07314405986107886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7251342656090856
+  lightness: 0.08109268615953624
+  saturation: 0.16574695007875562
+  rhythmicContrast: 0.33194845891557634
+purpose: []
